@@ -1,0 +1,10 @@
+work/
+jobs/
+media/
+*.mp4
+*.src.mp4
+*.wav
+__pycache__/
+*.pyc
+payouts.csv
+.env

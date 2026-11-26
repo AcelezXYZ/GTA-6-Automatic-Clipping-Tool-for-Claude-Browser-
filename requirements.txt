@@ -1,0 +1,7 @@
+yt-dlp
+faster-whisper
+numpy
+requests
+truststore
+pillow
+opencv-python-headless
