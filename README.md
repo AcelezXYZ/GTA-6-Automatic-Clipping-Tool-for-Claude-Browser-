@@ -1,0 +1,1 @@
+# GTA-6-Automatic-Clipping-Tool-for-Claude-Browser-
